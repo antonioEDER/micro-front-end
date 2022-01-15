@@ -2,14 +2,13 @@
 Um projeto desenvolvido com Vue Microfrontends
 
 ```
-Esse é um projeto desenvolvido com webpack 2.
+Um projeto desenvolvido com Vue Microfrontends
 
 Nele vamos explorar ainda:
-- Express
+- single-spa
+- VueJs
 
 ```
-Para o projeto foi criado os arquivos:
-- index.html
 
 <h2 align="center">Install</h2>
 
