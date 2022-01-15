@@ -21,16 +21,20 @@ Generation project:
 ```bash
 create-single-spa
 ```
-Start project:
+Start project Portal:
 ```bash
-yarn start
+yarn start // http://localhost:9000
 ```
 
-
+Start project APP VUEJS:
+```bash
+yarn start // http://localhost:8080
+```
 
 <h2 align="center">Documentações</h2>
 - https://single-spa.js.org/
 - https://github.com/vue-microfrontends/root-config
+- http://localhost:8080/js/app.js
 
 <h2 align="center">Dependências</h2>
 - NodeJS
