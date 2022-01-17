@@ -1,7 +1,5 @@
 <template>
-<div>
-  <HelloWorld msg="Micro FrontEnd with Vue.js 01"/>
-</div>
+  <HelloWorld msg="Micro FrontEnd with Vue.js 02"/>
 </template>
 
 <script>
