@@ -5,8 +5,8 @@ Um projeto desenvolvido com Vue Microfrontends
 Um projeto desenvolvido com Vue Microfrontends
 
 Nele vamos explorar ainda:
-- single-spa
-- VueJs
+- Criar um projeto em VueJs
+- Criar um projeto em React
 
 ```
 
