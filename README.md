@@ -1,8 +1,8 @@
 # a-simple-micro-front-end
-Um projeto desenvolvido com Vue Microfrontends
+Um projeto desenvolvido com Microfrontends
 
 ```
-Um projeto desenvolvido com Vue Microfrontends
+Um projeto desenvolvido com Microfrontends
 
 Nele vamos explorar ainda:
 - Criar um projeto em VueJs
@@ -34,7 +34,6 @@ yarn start // http://localhost:8080
 <h2 align="center">Documentações</h2>
 - https://single-spa.js.org/
 - https://github.com/vue-microfrontends/root-config
-- http://localhost:8080/js/app.js
 
 <h2 align="center">Dependências</h2>
 - NodeJS
