@@ -4,11 +4,14 @@
 
 <script>
 import HelloWorld from './components/HelloWorld.vue'
-
+import { objectFactory } from "@microfrontend/utilitario";
 export default {
   name: 'App',
   components: {
     HelloWorld
+  },
+  mounted() {
+    console.log('Deu certo o instanciamento do pacote utilitario', objectFactory());
   }
 }
 </script>

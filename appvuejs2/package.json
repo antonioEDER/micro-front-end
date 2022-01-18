@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "start": "vue-cli-service serve --port 8082 --mode standalone",
+    "start": "vue-cli-service serve --port 8082",
     "serve": "vue-cli-service serve",
     "build": "vue-cli-service build",
     "lint": "vue-cli-service lint",
@@ -12,7 +12,8 @@
   "dependencies": {
     "core-js": "^3.6.5",
     "single-spa-vue": "^2.1.0",
-    "vue": "^3.0.0"
+    "vue": "^3.0.0",
+    "@microfrontend/utilitario": "0.0.1"
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "~4.5.0",

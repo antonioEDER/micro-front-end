@@ -1,5 +1,6 @@
 {
   "name": "@microfrontend/utilitario",
+  "version": "0.0.1",
   "scripts": {
     "start": "webpack serve --port 8083",
     "start:standalone": "webpack serve --env standalone",
