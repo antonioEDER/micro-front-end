@@ -51,6 +51,7 @@ yarn start // http://localhost:8083
 <h2 align="center">Documentações</h2>
 - https://single-spa.js.org/
 - https://github.com/vue-microfrontends/root-config
+https://materializecss.com/cards.html
 
 <h2 align="center">Dependências</h2>
 - Single-SPA
@@ -58,4 +59,4 @@ yarn start // http://localhost:8083
 - React
 - Vuejs
 - Yarn
-- Material-UI
+- Materialize-CSS

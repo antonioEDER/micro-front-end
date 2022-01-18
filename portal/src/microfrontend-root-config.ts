@@ -6,16 +6,7 @@ registerApplication({
     System.import(
       "@microfrontend/appvuejs"
     ),
-  activeWhen: ['/appvue'],
-});
-
-registerApplication({
-  name: "@microfrontend/appreactjs",
-  app: () =>
-    System.import(
-      "@microfrontend/appreactjs"
-    ),
-  activeWhen: ['/appreact'],
+  activeWhen: () => true,
 });
 
 registerApplication({
@@ -24,8 +15,18 @@ registerApplication({
     System.import(
       "@microfrontend/appvuejs2"
     ),
-    activeWhen: ['/appvue2'],
+    activeWhen: () => true,
 });
+
+registerApplication({
+  name: "@microfrontend/appreactjs",
+  app: () =>
+    System.import(
+      "@microfrontend/appreactjs"
+    ),
+  activeWhen: () => true,
+});
+
 
 
 start({

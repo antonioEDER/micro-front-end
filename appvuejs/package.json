@@ -9,6 +9,8 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "material-design-icons": "^3.0.1",
+    "materialize-css": "^1.0.0-rc.2",
     "single-spa-vue": "^2.1.0",
     "vue": "^3.0.0"
   },
